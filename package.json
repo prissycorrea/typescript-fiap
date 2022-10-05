@@ -1,0 +1,12 @@
+{
+  "name": "logica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add --all && git commit -m'Deploy' && git push origin master && echo 'deploy realizado'"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
